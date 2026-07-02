@@ -69,6 +69,26 @@ public class MainActivity extends AppCompatActivity
         wordList.add(new Word("Serendipity",
                 "Finding something good without looking for it."));
         wordList.add(new Word("Android", "A mobile operating system by Google."));
+        wordList.add(new Word("Lucid", "Clear and easy to understand."));
+        wordList.add(new Word("Quixotic", "Extremely idealistic and unrealistic."));
+        wordList.add(new Word("Eloquent", "Fluent and persuasive in speaking."));
+        wordList.add(new Word("Resilient", "Able to recover quickly from difficulties."));
+        wordList.add(new Word("Meticulous", "Showing great attention to detail."));
+        wordList.add(new Word("Benevolent", "Kind and generous towards others."));
+        wordList.add(new Word("Candid", "Truthful and straightforward."));
+        wordList.add(new Word("Diligent", "Careful and hardworking."));
+        wordList.add(new Word("Empathy", "The ability to understand others' feelings."));
+        wordList.add(new Word("Frugal", "Careful about spending money."));
+        wordList.add(new Word("Gregarious", "Fond of company; sociable."));
+        wordList.add(new Word("Humble", "Modest; not proud or arrogant."));
+        wordList.add(new Word("Innovate", "To introduce something new."));
+        wordList.add(new Word("Jovial", "Cheerful and friendly."));
+        wordList.add(new Word("Keen", "Eager and enthusiastic."));
+        wordList.add(new Word("Luminous", "Giving off light; bright."));
+        wordList.add(new Word("Nostalgia", "A longing for the past."));
+        wordList.add(new Word("Optimistic", "Hopeful about the future."));
+        wordList.add(new Word("Pragmatic", "Dealing with things practically."));
+        wordList.add(new Word("Vivid", "Bright, clear, and full of life."));
     }
 
     @Override
