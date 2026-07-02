@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleDictionary</string>
+
+    <string name="title_main">SimpleDictionary</string>
+    <string name="fab_add_content_description">Add new word</string>
+    <string name="empty_list_hint">No words yet.\nTap the + button to add your first word.</string>
+
+    <string name="title_add">Add Word</string>
+    <string name="title_edit">Edit Word</string>
+    <string name="hint_word">Word</string>
+    <string name="hint_meaning">Meaning</string>
+    <string name="action_save">SAVE</string>
+
+    <string name="toast_added">Word added</string>
+    <string name="toast_updated">Word updated</string>
+    <string name="toast_deleted">Word deleted</string>
+    <string name="error_word_required">Please enter a word</string>
+    <string name="error_meaning_required">Please enter a meaning</string>
+    <string name="hint_long_press_delete">Tip: long-press an item to delete it</string>
+</resources>
